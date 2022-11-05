@@ -39,8 +39,8 @@
 		
 		<!-- test dependencies -->
 		<dependency>
-			<groupId>unit</groupId>
-			<artifactId>unit</artifactId>
+			<groupId>cunit</groupId>
+			<artifactId>cunit</artifactId>
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
