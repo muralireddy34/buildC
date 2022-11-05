@@ -109,8 +109,8 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>cppunit</groupId>
-        <artifactId>cppunit</artifactId>
+        <groupId>src.main.c</groupId>
+        <artifactId>src.main.c</artifactId>
         <version>1.0.0</version>
       </dependency>
     </dependencies>
