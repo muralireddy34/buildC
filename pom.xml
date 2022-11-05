@@ -109,8 +109,8 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>main.cpp</groupId>
-        <artifactId>main.cpp</artifactId>
+        <groupId>cppunit</groupId>
+        <artifactId>cppunit</artifactId>
         <version>1.0.0</version>
       </dependency>
     </dependencies>
