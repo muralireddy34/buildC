@@ -109,9 +109,9 @@
   <dependencyManagement>
     <dependencies>
       <dependency>
-        <groupId>org.apache.activemq-cpp</groupId>
-        <artifactId>activemq-cpp-openwire-generator</artifactId>
-        <version>${project.version}</version>
+        <groupId>main.cpp</groupId>
+        <artifactId>main.cpp</artifactId>
+        <version>1.0.0</version>
       </dependency>
     </dependencies>
   </dependencyManagement>
